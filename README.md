@@ -16,3 +16,10 @@ How to attempt this challenge:
 4) Set your new repo as the origin: `git remote set-url origin ${your repo url}`
 5) Push your solution to your repo
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
+
+---
+
+### 📌 Developer Note
+
+This solution was completed by **Emilio Funes** as part of a technical evaluation on **May 19, 2025** for a backend position via Upwork.  
+Repository: [github.com/EmiFunes91/challenge-git-solution](https://github.com/EmiFunes91/challenge-git-solution)
