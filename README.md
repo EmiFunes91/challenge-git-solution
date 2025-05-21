@@ -19,7 +19,7 @@ You must follow these steps for your solution to be accepted -- forks or other m
 
 ---
 
-### 📌 Developer Note
+### Developer Note
 
-This solution was completed by **Emilio Funes** as part of a technical evaluation on **May 19, 2025** for a backend position via Upwork.  
-Repository: [github.com/EmiFunes91/challenge-git-solution](https://github.com/EmiFunes91/challenge-git-solution)
+This repository was created by Emilio Funes to complete a technical exercise originally posted at `github.com/Interlincx/challenge-git`.  
+All commits were made manually as part of a backend evaluation on May 19, 2025.
